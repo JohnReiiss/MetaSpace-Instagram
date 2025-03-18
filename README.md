@@ -45,7 +45,7 @@ Ou, caso prefira clonar o repositório e rodar localmente:
 
 ```bash
 git clone https://github.com/JohnReiiss/MetaSpace-Instagram.git
-
+```
 ## 📞 Contato
 Se quiser saber mais sobre meu trabalho ou discutir oportunidades, entre em contato:
 
