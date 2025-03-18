@@ -5,10 +5,8 @@ Bem-vindo ao **MetaSpace-Instagram**! Este projeto foi desenvolvido com o objeti
 ## Página Inicial
 
 A página inicial do MetaSpace-Instagram foi projetada com foco em uma interface limpa e interativa. Utilizando elementos como cards e animações suaves, a navegação é otimizada para proporcionar uma experiência agradável ao usuário.
-![image](https://github.com/user-attachments/assets/e116a10f-7aab-4d5c-8ef2-02cf9b1d18ef)
-
-
 Através de uma estrutura de HTML organizada, a navegação entre as seções é fluída, com transições de navegação que tornam o projeto dinâmico e atrativo.
+![image](https://github.com/user-attachments/assets/e116a10f-7aab-4d5c-8ef2-02cf9b1d18ef)
 
 ## Funcionalidades Principais ⚙️
 
@@ -47,3 +45,12 @@ Ou, caso prefira clonar o repositório e rodar localmente:
 
 ```bash
 git clone https://github.com/JohnReiiss/MetaSpace-Instagram.git
+
+## 📞 Contato
+Se quiser saber mais sobre meu trabalho ou discutir oportunidades, entre em contato:
+
+- **E-mail:** johnatan.reiiss@icloud.com
+- **LinkedIn:** [linkedin.com/in/johnatan-hayabusa](https://www.linkedin.com/in/johnatan-hayabusa)
+- **GitHub:** [github.com/JohnReiiss](https://github.com/JohnReiiss)
+
+Obrigado por visitar meu portfólio! Espero que goste do projeto. 🚀
