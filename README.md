@@ -39,7 +39,7 @@ O feed de postagens é o coração do MetaSpace-Instagram, onde os usuários pod
 
 Você pode acessar o MetaSpace-Instagram diretamente pelo link abaixo:
 
-🔗 [Acesse o MetaSpace-Instagram](https://github.com/JohnReiiss/MetaSpace-Instagram)
+🔗 [Acesse o MetaSpace-Instagram](https://johnreiiss.github.io/MetaSpace-Instagram/)
 
 Ou, caso prefira clonar o repositório e rodar localmente:
 
