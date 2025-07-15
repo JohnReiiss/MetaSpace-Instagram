@@ -51,7 +51,7 @@ git clone https://github.com/JohnReiiss/MetaSpace-Instagram.git
 
 - **Desenvolvedor**: [Johnatan dos Santos Reis]  
 - **E-mail:** johnatan.reiiss@icloud.com
-- **LinkedIn:** [linkedin.com/in/johnatan-hayabusa](https://www.linkedin.com/in/johnatan-dos-santos-reis-945092b7/)
+- **LinkedIn:** [linkedin.com/in/johnatan-Reis](https://www.linkedin.com/in/johnatan-dos-santos-reis-945092b7/)
 - **GitHub:** [github.com/JohnReiiss](https://github.com/JohnReiiss)  
 
 ---
