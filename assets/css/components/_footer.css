@@ -1,0 +1,9 @@
+/* assets/css/components/_footer.css */
+.main-footer {
+  padding: 20px;
+  margin-top: 40px;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 1em;
+  font-weight: 300;
+}

@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(
+    177deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(116, 116, 116, 1) 100%
+  );
+  background-attachment: fixed;
+  min-height: 100vh;
+  font-family: "Poppins", sans-serif;
+  color: #fff;
+  padding: 20px;
+}
+
+/* --- Animação de Brilho RGB --- */
+@keyframes glowing {
+  0% {
+    background-position: 0 0;
+  }
+  50% {
+    background-position: 400% 0;
+  }
+  100% {
+    background-position: 0 0;
+  }
+}
