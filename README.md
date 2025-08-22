@@ -66,7 +66,7 @@ A arquitetura do projeto foi desenhada para uma clara separação de responsabil
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO_AQUI]
+    git clone https://github.com/JohnReiiss/MetaSpace-Instagram.git
     cd METASPACE-INSTAGRAM
     ```
 2.  **Abra o arquivo principal:**
@@ -74,8 +74,8 @@ A arquitetura do projeto foi desenhada para uma clara separação de responsabil
 
 ## 🖼️ Demonstração Visual
 
-<div align="center">
-  <img src="URL_DO_SEU_SCREENSHOT_OU_GIF" alt="Demonstração do MetaSpace" width="600"/>
+<div align="center"> 
+  <p>Acesse aqui o vídeo de demonstração <a href="https://drive.google.com/file/d/1V03uHomfgOxyK7MGlnWeRgg1LxxzHLMu/view?usp=drive_link">🎥 Clique aqui para assistir ao vídeo</a></p> 
 </div>
 
 ## ✉️ Contato
